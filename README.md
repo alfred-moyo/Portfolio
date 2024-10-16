@@ -19,7 +19,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://alfredmoyo.com" target="_blank">Alfred Moyo</a> which features some of my github projects as well as my technical skills.<br/>
+My personal portfolio <a href="https://alfredmoyo.com" target="_blank">Alfred Moyo</a> which features some of my Github projects as well as my technical skills.<br/>
 
 This project was built using these technologies.
 
@@ -33,7 +33,7 @@ This project was built using these technologies.
 
 **📖 Multi-Page Layout**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+**🎨 Styled with React-Bootstrap and CSS with easy to customize colors**
 
 **📱 Fully Responsive**
 
