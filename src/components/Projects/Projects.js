@@ -19,6 +19,24 @@ function Projects() {
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
+            <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={zilbiz}
+              isBlog={false}
+              title="ZilBiz"
+              description="ZilBiz is a web-based platform designed for Small and Medium Enterprises (SMEs) in Mauritius. It allows businesses to list their services, receive customer reviews, and gain AI-powered insights into customer sentiment and business performance."
+              ghLink="https://github.com/alfred-moyo/zilbiz"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={yojin}
+              isBlog={false}
+              title="Yōjin"
+              description="An AI-powered career development platform that helps users identify skill gaps, discover personalized learning paths, and prepare for job opportunities."
+              ghLink="https://github.com/alfred-moyo/Yojin"
+            />
+          </Col>
             <ProjectCard
               imgPath={eco_connect}
               isBlog={false}
